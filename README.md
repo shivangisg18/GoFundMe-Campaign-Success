@@ -1,5 +1,5 @@
 # GoFundMe-Campaign-Success
-This project studies 1,000 GoFundMe Animal category campaigns to identify which visual and temporal factors most strongly drive fundraising performance.
+This project investigates how visual content, campaign timing, and textual framing influence fundraising success on GoFundMe. Using data from 1,000 campaigns in the Animal category, the analysis combines computer vision, natural language processing, and predictive modeling to uncover what differentiates high-performing campaigns from the rest.
 
 ### [Data Collection & Feature Extraction](GoFundMe%20Scraping.ipynb)
 
